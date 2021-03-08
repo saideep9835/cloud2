@@ -1,0 +1,22 @@
+Header{
+    margin:20px;
+    background-color:pink; Padding:5px;
+    Text-Align:Center;
+    border-width:2px;
+    border-color:Blue;
+    border-Style:dotted;
+    Color:Black;
+
+}
+ Footer{
+     margin: 20px;
+     Text-Align:right;
+     background-color:Pink;
+     Color:Black;
+     border-Width:2px;
+     border-color:Blue;
+     border-Style:dotted;
+     Text-Align:Center;
+ }
+ 
+     

@@ -1,0 +1,14 @@
+body{
+    background-image:url("co.jpg");
+    background-repeat:no-repeat;
+    background-size: 100%;
+}
+nav 
+{
+    border: 2px solid black;
+    border-width: thin;
+    font-size: 20px;
+    word-spacing: 10px;
+    background-color:rgb(172, 112, 112);
+}
+
